@@ -1,3 +1,3 @@
-# stock-prediction
+# Stock Prediction Programs
 
-# Using Python to prediction future stock prices using different prediction and pricing strategies
+Using Python to predict future adjusted closing prices for stocks using different prediction and pricing strategies
